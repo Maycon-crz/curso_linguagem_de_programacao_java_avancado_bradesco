@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\src\java-projects\curso_linguagem_de_programacao_java_avancado_bradesco\.metadata\.plugins\org.eclipse.jdt.core
+2160775541.index
+1163297294.index
+1865797976.index
+1262723291.index
+4064766010.index

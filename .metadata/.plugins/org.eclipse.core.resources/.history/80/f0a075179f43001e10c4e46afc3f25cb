@@ -1,0 +1,16 @@
+package projetojava;
+
+import javax.swing.JFrame;
+
+public class Meuframe {
+	
+	public Meuframe(){
+		
+		JFrame frame = new JFrame();
+		
+	}
+
+	public static void main(String[] args) {
+	}
+
+}

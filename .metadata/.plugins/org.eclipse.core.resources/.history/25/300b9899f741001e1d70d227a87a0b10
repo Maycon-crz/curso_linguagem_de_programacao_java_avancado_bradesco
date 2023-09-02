@@ -1,0 +1,13 @@
+package br.com.meuprojeto;
+
+public class ContaTeste {
+	public static void main(String[] args) {
+		Conta conta = new Conta();
+		conta.cliente = "Maycon";
+		conta.saldo = 4_000.00;
+		conta.exibesaldo();
+		
+		conta.saque(200);
+		conta.exibesaldo();
+	}
+}

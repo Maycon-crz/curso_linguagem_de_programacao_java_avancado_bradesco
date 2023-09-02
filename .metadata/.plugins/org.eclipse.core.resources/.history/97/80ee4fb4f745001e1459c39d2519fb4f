@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author nmayc
+ *
+ */
+module projetojava {
+	requires java.desktop;
+}
